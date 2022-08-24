@@ -1,1 +1,1 @@
-# ssnit_digitalAddress_OdooAddon
+An odoo module to extend the functionality of the contact form to receive the SSNIT and Digital Addresses of customers. Written in XML and python, built on the odoo framework.
